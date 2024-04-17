@@ -1,9 +1,8 @@
-# Class Component and State Part 2
+# Class Component and State Part 
 
 - Searchable Users List
   - Searching User
   - Deleting User
 - setState() 
-  - Object Syntax
 - Components
   - Passing Callbacks
